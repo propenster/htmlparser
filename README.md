@@ -75,6 +75,20 @@ var htmlText =
 
 ```
 
-## Check the examples folder for more examples.
+### You can also check [Examples](https://github.com/propenster/simplehtmlparser/tree/main/examples) folder for code samples.
+
+### Do you have an issue?
+
+If you're facing some problems using the package, file an [issue](https://github.com/propenster/simplehtmlparser/issues) above.
+
+### License, etc.
+SimpleHTMLParser is Copyright &copy; 2023 [Faith Olusegun](https://github.com/propenster) and other contributors under the [MIT license](https://github.com/propenster/simplehtmlparser/blob/main/LICENSE).
+
+Contributions, Issues submissions, PRs etc are in order. Please communicate if you any issues or want to contribute.
+
+
+
+
+
 
 
