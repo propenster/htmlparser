@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "HtmlParser/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/HtmlParser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HtmlParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HtmlParser/1.0.0": {
+      "type": "project",
+      "path": "../HtmlParser/HtmlParser.csproj",
+      "msbuildProject": "../HtmlParser/HtmlParser.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "HtmlParser >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\faith.olusegun\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\faith.olusegun\\source\\repos\\HtmlParser\\TestHtmlParser\\TestHtmlParser.csproj",
+      "projectName": "TestHtmlParser",
+      "projectPath": "C:\\Users\\faith.olusegun\\source\\repos\\HtmlParser\\TestHtmlParser\\TestHtmlParser.csproj",
+      "packagesPath": "C:\\Users\\faith.olusegun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\faith.olusegun\\source\\repos\\HtmlParser\\TestHtmlParser\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\faith.olusegun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\faith.olusegun\\source\\repos\\HtmlParser\\HtmlParser\\HtmlParser.csproj": {
+              "projectPath": "C:\\Users\\faith.olusegun\\source\\repos\\HtmlParser\\HtmlParser\\HtmlParser.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

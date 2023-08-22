@@ -1,0 +1,10 @@
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\bin\Debug\netstandard2.0\HtmlParser.deps.json
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\bin\Debug\netstandard2.0\HtmlParser.dll
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\bin\Debug\netstandard2.0\HtmlParser.pdb
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\obj\Debug\netstandard2.0\HtmlParser.csproj.AssemblyReference.cache
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\obj\Debug\netstandard2.0\HtmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\obj\Debug\netstandard2.0\HtmlParser.AssemblyInfoInputs.cache
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\obj\Debug\netstandard2.0\HtmlParser.AssemblyInfo.cs
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\obj\Debug\netstandard2.0\HtmlParser.csproj.CoreCompileInputs.cache
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\obj\Debug\netstandard2.0\HtmlParser.dll
+C:\Users\faith.olusegun\source\repos\HtmlParser\HtmlParser\obj\Debug\netstandard2.0\HtmlParser.pdb
