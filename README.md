@@ -2,7 +2,7 @@
 A simple and full-feature HTML Parser in C#
 
 ### What is SimpleHTMLParser?
-SimpleHTMLParser is a simple to use, efficient, and full-featured HTML Document Parser. You can parse an HTML text and retrieve any element(s) in it.
+SimpleHTMLParser is a simple to use, efficient, and full-featured HTML Document Parser for C#. You can parse an HTML text and retrieve any element(s) in it.
 
 ### Where can I get it?
 
