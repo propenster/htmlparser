@@ -65,7 +65,7 @@ var htmlText =
         IHtmlElement myDiv = htmlDocument.FindElement(By.Id("myDiv"));
         // get other elements under this DIV
         var paragraphsUnderMyDiv = myDiv.FindElements(By.ElementTag("p"));
-        var spanUnderDivWithClassMySpan = myDiv.FindElements(By.ClassName("mySpan"));
+        var spanUnderDivWithClassMySpan = myDiv.FindElement(By.ClassName("mySpan"));
         Console.WriteLine("This is the text from our Span under the DIV >>> {0}", spanUnderDivWithClassMySpan?.Text);
         Console.WriteLine("There are {0} paragraph tags under DIV myDiv", paragraphsUnderMyDiv.Count());
         
